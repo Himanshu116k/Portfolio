@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar'
 import LogoSection from './Sections/LogoSection'
 import FeatureCards from './Sections/FeatureCards'
 import ExperienceSection from './Sections/ExperienceSection'
+import Techstack from './Sections/Techstack'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
    <LogoSection/>
    <FeatureCards/>
    <ExperienceSection/>
+   <Techstack/>
    </>
   )
 }
